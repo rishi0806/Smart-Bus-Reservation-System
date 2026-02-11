@@ -221,7 +221,43 @@ From here admin can manage the entire system.
 
 # Final Output
 
-* Admin Module
+* 👨‍💼Admin Module
+  <p align="center">
+    <img src="screenshots/Admin%20Dashboard.png" width="45%">
+    <img src="screenshots/Admin%20Feedback%20Page.png" width="45%">
+  </p>
+
+  <p align="center">
+    <img src="screenshots/Admin%20Reservations%20Page.png" width="45%">
+    <img src="screenshots/Route%20Dashboard.png" width="45%">
+  </p>
+
+  <p align="center">
+    <img src="screenshots/Bus%20Dashboard.png" width="60%">
+  </p>
+
+*👤 User Module
+  <p align="center">
+    <img src="screenshots/User%20Dashboard.png" width="45%">
+    <img src="screenshots/Bus%20Reservation.png" width="45%">
+  </p>
+
+<p align="center">
+  <img src="screenshots/Payment%20Page.png" width="45%">
+  <img src="screenshots/User%20Reservations.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/User%20Feedback.png" width="45%">
+</p>
+
+* 🔐 Authentication Pages
+  <p align="center">
+  <img src="screenshots/User%20Login.png" width="45%">
+  <img src="screenshots/User%20Register.png" width="45%">
+</p>
+
+
 
 ---
 
@@ -240,5 +276,7 @@ From here admin can manage the entire system.
 Developed by **Rishi Kumar**
 
 ---
+# Acknowledgement
 
-⭐ If you like this project, give it a star on GitHub!
+I am grateful to my trainer [Satya Praksh sir](https://github.com/sathyasoma) for his invaluable guidance, mentorship, and continuous support throughout my Java Full Stack training.
+---
