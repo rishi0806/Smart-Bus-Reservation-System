@@ -1,0 +1,23 @@
+@charset "UTF-8";
+ .navbar{
+  background: #567AC8;
+  padding:10px 20px;
+ }
+ 
+.nav-link:hover {
+    color: black !important;
+   
+}
+.top{
+	background: #567AC8
+}
+.card{
+	background-color: #BBC7E7 !important;
+	color: #4768C2 !important;
+}
+.card p{
+	color: black;
+}
+body{
+	background: #567AC8 !important;
+}
