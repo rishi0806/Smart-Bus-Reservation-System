@@ -236,7 +236,7 @@ From here admin can manage the entire system.
     <img src="screenshots/Bus%20Dashboard.png" width="60%">
   </p>
 
-*👤 User Module
+* 👤 User Module
   <p align="center">
     <img src="screenshots/User%20Dashboard.png" width="45%">
     <img src="screenshots/Bus%20Reservation.png" width="45%">
