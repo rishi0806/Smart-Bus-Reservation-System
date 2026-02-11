@@ -274,10 +274,11 @@ From here admin can manage the entire system.
 
 **Smart Bus Reservation System Project**
 **Rishi Kumar Jamili**
-Java Full Stack Trainee at <a href="https://in.linkedin.com/company/codegnan" target="_blank">
+Java Full Stack Trainee at [Codegnan](https://in.linkedin.com/company/codegnan)
 
 ---
 # Acknowledgement
 
 I am grateful to my trainer [Satya Praksh sir](https://github.com/sathyasoma) for his invaluable guidance, mentorship, and continuous support throughout my Java Full Stack training.
+
 ---
