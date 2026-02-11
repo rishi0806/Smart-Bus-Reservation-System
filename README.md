@@ -273,7 +273,8 @@ From here admin can manage the entire system.
 # 👨‍💻 Author
 
 **Smart Bus Reservation System Project**
-Developed by **Rishi Kumar**
+**Rishi Kumar Jamili**
+Java Full Stack Trainee at <a href="https://in.linkedin.com/company/codegnan" target="_blank">
 
 ---
 # Acknowledgement
